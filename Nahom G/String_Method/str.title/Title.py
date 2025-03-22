@@ -4,4 +4,4 @@ Y = "my cup is empty"
 title_case_Y = Y.title()
 
 # Print the result
-print(title_case_Y)  # Output: "My cup is empty"
+print(title_case_Y)  # Output: "My Cup Is Empty"
